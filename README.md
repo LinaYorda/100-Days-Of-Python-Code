@@ -13,6 +13,7 @@
 * [Day1 - Working With Variables to Manage Data.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day1)
 * [Day2 - Understanding Data Types and How to Manipulates Strings.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day2)
 * [Day3 - Control Flow and Logical Operators.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day3)
+* [Day4 - Randomisation and Python Lists.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day4)
 
 ## Authors
 
