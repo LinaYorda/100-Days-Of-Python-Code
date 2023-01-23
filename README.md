@@ -1,8 +1,9 @@
 
 <p>
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/LinaYorda/100-Days-Of-Python-Code">
+<img alt="<img alt="GitHub repo file count"
+src="https://img.shields.io/github/directory-file-count/LinaYorda/100-Days-Of-Python-Code">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/LinaYorda?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GirlsCanInvest2?style=social">
 </p>
 
 # 100 Days of Python Code
@@ -15,7 +16,12 @@
 * [Day3 - Control Flow and Logical Operators.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day3)
 * [Day4 - Randomisation and Python Lists.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day4)
 * [Day5 - Python Loops.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day5)
+* [Day5 - Functions, Code Blocks and While Loops.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day6)
 
 ## Authors
 
 - [@yu_angela](https://twitter.com/yu_angela)
+
+## Support
+
+You have found a issue? Please, make a pull request. 
