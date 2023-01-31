@@ -16,7 +16,9 @@ src="https://img.shields.io/github/directory-file-count/LinaYorda/100-Days-Of-Py
 * [Day3 - Control Flow and Logical Operators.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day3)
 * [Day4 - Randomisation and Python Lists.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day4)
 * [Day5 - Python Loops.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day5)
-* [Day5 - Functions, Code Blocks and While Loops.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day6)
+* [Day6 - Functions, Code Blocks and While Loops.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day6)
+* [Day7 - Handman.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day7)
+* [Day8 - Function Parameters & Caesar Cipher.](https://github.com/LinaYorda/100-Days-Of-Python-Code/tree/main/Day8)
 
 ## Authors
 
